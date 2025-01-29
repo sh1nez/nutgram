@@ -1,4 +1,6 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
+# GLORY TO RUSSINA!!!! ZZZZZVvZooo00oOOoVVZZ!!
+
+[![SVO Banner](https://kbrria.ru/upload/iblock/31d/31d460e56f4fd0922f81138b084f6a34.jpg)](https://поконтракту.рф/)
 
 ------
 
