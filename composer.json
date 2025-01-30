@@ -1,6 +1,6 @@
 {
-    "name": "nutgram/nutgram",
-    "description": "The Telegram bot library that doesn't drive you nuts",
+    "name": "sh1nez/nutgram",
+    "description": "Nutgram fork with function mode for yandex.cloud",
     "keywords": [
         "nutgram",
         "telegram",
@@ -10,8 +10,8 @@
         "framework",
         "laravel"
     ],
-    "homepage": "https://github.com/SergiX44/Nutgram",
-    "license": "MIT",
+    "homepage": "https://github.com/sh1nez/nutgram",
+    "license": "No",
     "authors": [
         {
             "name": "Sergio Brighenti",
@@ -19,8 +19,8 @@
             "role": "Developer"
         },
         {
-            "name": "Luca Patera",
-            "email": "lucapatera@outlook.it",
+            "name": "Aivan",
+            "email": "i.v.butorov@gmail.com",
             "role": "Developer"
         }
     ],
